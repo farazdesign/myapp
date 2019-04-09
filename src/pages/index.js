@@ -15,7 +15,7 @@ const IndexPage = () =>
 
     <div className="Hero">
       <div className="HeroGroup">
-        <h1 > Faraz Uddin's First Ever React Website< /h1>
+        <h1 > Faraz Uddin<br></br> My First Ever React Website< /h1>
       <p> I really enjoy Design + Code. My goal is to become a Full-Stack UX/UI Designer< /p>
       <Link to="/page-2/" > Watch the video < /Link> 
     </div>
